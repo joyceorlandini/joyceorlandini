@@ -9,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyceorlandini&layout=compact&hide_border=true&title_color=f50f6f&text_color=f50f6f&bg_color=f50f6f" />#b02c63
 </div> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joyceorlandini&bg_color=4a0120&color=f50f6f&line=f5629f&point=e6c3d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joyceorlandini&bg_color=380118&color=ff6e92&line=f5629f&point=e6c3d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.instagram.com/joyce_orlandinii/" target="_blank">
